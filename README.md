@@ -1,6 +1,6 @@
 # HP 250 G5 (SkyLake) macOS Mojave
 
-<img src="https://raw.githubusercontent.com/hikkamorii/HP-250-G4-macOS/master/System.png" height="300px">
+<img src="https://raw.githubusercontent.com/hikkamorii/HP-250-G4-macOS/master/System.png" width="499px" height="300px">
 
 Specs
 ======

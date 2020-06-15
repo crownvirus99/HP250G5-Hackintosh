@@ -1,23 +1,24 @@
 # HP 250 G5 (SkyLake) macOS Mojave
+======
 
 Specs
 ======
-**CPU:** Intel Core i3 4005U
+**CPU:** Intel Core i5 6200U
 
-**iGPU:** Intel HD4400
+**iGPU:** Intel HD520
 
-**dGPU:** AMD Radeon R5 330M
+**dGPU:** AMD Radeon R5 430M
 
-**Network:** Realtek RTL8106E *(10/100😔)*
+**Network:** Realtek RTL8168H
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Broadcom BCM43xx series (Don't really care, see *problems*)
+**Network:** Qualcomm QCA9377
 
-**RAM:** 4GB DDR3L *(Hopefully I'm gonna upgrade it soon)*
+**RAM:** 12GB DDR4 2133MHz
 
 **Audio:** Realtek ALC282
 
-**BIOS:** Insyde UEFI, vF.24
+**BIOS:** Insyde UEFI, vF.
 
-**Board:** HP 80C4
+**Board:** HP 81EC
 
-**HDD:** Toshiba MQ01ABF050 *(Note: Don't install macOS on 5400rpm drive, bad idea.)*
+**HDD:** 1TB WDC WD10JPVX-60JC3T0 

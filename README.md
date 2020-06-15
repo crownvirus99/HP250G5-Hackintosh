@@ -1,5 +1,4 @@
 # HP 250 G5 (SkyLake) macOS Mojave
-======
 
 Specs
 ======

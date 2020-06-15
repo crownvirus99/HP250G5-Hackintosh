@@ -23,3 +23,45 @@ Specs
 **Board:** HP 81EC
 
 **HDD:** 1TB WDC WD10JPVX-60JC3T0 
+
+What's working
+============
+* Audio. (Speaker and Headphone jack)
+* Microphone. (Integrated and Headphone)
+* Audio controls.
+* LCD brightness.
+* CPU Power Management. (Oficially supported)
+* Metal. (Officially supported GPU)
+* SD Card reader.
+* Webcam.
+* Bluetooth. (Fully Working with audio support, etc.)
+* Ethernet.
+* USB
+* Trackpad (partial)
+* HDMI
+* Dual Booting (Windows and macOS)
+
+&nbsp;
+
+Not Working
+=======
+* Wifi (Only fix is replace Wifi card)
+* Dedicated Radeon GPU (disabled by DSDT/SSDT Patch)
+* Sleep (WIP) (Probably just need to patch usb number)
+
+&nbsp;
+
+Problems
+=======
+* Brightness controls from keyboard. (WIP)
+* Trackpad gestures.
+
+&nbsp;
+
+Untested
+=======
+* HDMI Audio
+* VGA
+* USB 3.0 support (probably working)
+* iMessage, FaceTime, iCloud.
+

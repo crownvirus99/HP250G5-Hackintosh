@@ -18,7 +18,7 @@ Specs
 
 **Audio:** Realtek ALC282
 
-**BIOS:** Insyde UEFI, vF.
+**BIOS:** Insyde UEFI, vF.48
 
 **Board:** HP 81EC
 

@@ -83,5 +83,7 @@ List of Patches and kexts
 Credits:
 ==================
 RehabMan: [Laptop Config Guide.](https://github.com/RehabMan/OS-X-Clover-Laptop-Config) [DSDT Patch Guide.](https://www.tonymacx86.com/threads/guide-patching-laptop-dsdt-ssdts.152573/)
+
 Striker on EliteMacx86: [Source.](https://www.elitemacx86.com/threads/guide-dell-inspiron-5559-intel-core-i5-6200u-8gb-ram-intel-hd-graphics-520.331/)
-u/TheRacerMaster on Reddit: [Source.](https://www.reddit.com/r/hackintosh/comments/4e23w6/guide_native_audio_with_clover_applealckext/)
+
+u/TheRacerMaster on Reddit: [Source.](https://www.reddit.com/r/hackintosh/comments/4e23w6/guide_native_audio_with_clover_applealckext/)**

@@ -40,6 +40,7 @@ What's working
 * Trackpad (partial)
 * HDMI
 * Dual Booting (Windows and macOS)
+* iMessage, FaceTime, iCloud.
 
 &nbsp;
 
@@ -48,6 +49,7 @@ Not Working
 * Wifi (Only fix is replace Wifi card)
 * Dedicated Radeon GPU (disabled by DSDT/SSDT Patch)
 * Sleep (WIP) (Probably just need to patch usb number)
+* HDMI Audio
 
 &nbsp;
 
@@ -60,8 +62,26 @@ Problems
 
 Untested
 =======
-* HDMI Audio
 * VGA
 * USB 3.0 support (probably working)
-* iMessage, FaceTime, iCloud.
 
+
+List of Patches and kexts
+==================
+* RehabMan's Clover Config for HD520
+* Descrete GPU Disabler Hotpath (SSDT-DDGPU)
+* RealtekRTL8100 Kext
+* AppleBacklightFixup
+* FakeSMC
+* Lilu
+* VoodooPS2Controller
+* WhateverGreen
+* Apple ALC
+* USBInjectAll.kext
+* USB Port Limit Patch by PMHeart
+
+Credits:
+==================
+RehabMan: [Laptop Config Guide.](https://github.com/RehabMan/OS-X-Clover-Laptop-Config) [DSDT Patch Guide.](https://www.tonymacx86.com/threads/guide-patching-laptop-dsdt-ssdts.152573/)
+Striker on EliteMacx86: [Source.](https://www.elitemacx86.com/threads/guide-dell-inspiron-5559-intel-core-i5-6200u-8gb-ram-intel-hd-graphics-520.331/)
+u/TheRacerMaster on Reddit: [Source.](https://www.reddit.com/r/hackintosh/comments/4e23w6/guide_native_audio_with_clover_applealckext/)

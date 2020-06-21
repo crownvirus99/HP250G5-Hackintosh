@@ -46,9 +46,9 @@ What's working
 
 Not Working
 =======
-* Wifi (Only fix is replace Wifi card)
+* Wifi (Only fix is to replace Wifi card)
 * Dedicated Radeon GPU (disabled by DSDT/SSDT Patch)
-* Sleep (WIP) (Probably just need to patch usb number)
+* Sleep (WIP) (Probably just need to patch usb port limit)
 * HDMI Audio
 
 &nbsp;
@@ -63,7 +63,6 @@ Problems
 Untested
 =======
 * VGA
-* USB 3.0 support (probably working)
 
 
 List of Patches and kexts

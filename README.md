@@ -36,7 +36,8 @@ What's working
 * Webcam.
 * Bluetooth. (Fully Working with audio support, etc.)
 * Ethernet.
-* USB
+* USB.
+* Sleep.
 * Trackpad (partial)
 * HDMI
 * Dual Booting (Windows and macOS)
@@ -48,7 +49,6 @@ Not Working
 =======
 * Wifi (Only fix is to replace Wifi card)
 * Dedicated Radeon GPU (disabled by DSDT/SSDT Patch)
-* Sleep (WIP) (Probably just need to patch usb port limit)
 * HDMI Audio
 
 &nbsp;
@@ -63,6 +63,7 @@ Problems
 Untested
 =======
 * VGA
+* Long term sleep.
 
 
 List of Patches and kexts
@@ -78,6 +79,7 @@ List of Patches and kexts
 * Apple ALC
 * USBInjectAll.kext
 * USB Port Limit Patch by PMHeart
+* Sleep fix (GPRW patch): [DSTD-GPRW Patch](https://1revenger1.gitbook.io/laptop-guide/battery-power-management/correcting-sleep-problems) 
 
 Credits:
 ==================

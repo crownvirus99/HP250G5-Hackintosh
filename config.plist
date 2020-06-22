@@ -157,6 +157,34 @@
 					<key>Replace</key>
 					<data>SERFRg==</data>
 				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>change Method(GPRW,2,N) to XPRW, pair with SSDT-GPRW.aml</string>
+					<key>Count</key>
+					<integer>0</integer>
+					<key>Disabled</key>
+					<false/>
+					<key>Enabled</key>
+					<true/>
+					<key>Find</key>
+					<data>R1BSVwI=</data>
+					<key>Limit</key>
+					<integer>0</integer>
+					<key>Mask</key>
+					<data></data>
+					<key>OemTableId</key>
+					<data></data>
+					<key>Replace</key>
+					<data>WFBSVwI=</data>
+					<key>ReplaceMask</key>
+					<data></data>
+					<key>Skip</key>
+					<integer>0</integer>
+					<key>TableLength</key>
+					<integer>0</integer>
+					<key>TableSignature</key>
+					<data></data>
+				</dict>
 			</array>
 		</dict>
 		<key>DisabledAML</key>
@@ -200,6 +228,7 @@
 		<array>
 			<string>DSDT.aml</string>
 			<string>DiscreteSpoof.aml</string>
+			<string>SSDT-PNLF.aml</string>
 			<string>SSDT-PNLF.aml</string>
 		</array>
 	</dict>
@@ -557,6 +586,8 @@
 				<false/>
 				<key>Find</key>
 				<data>g/sPDw==</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>Name</key>
 				<string>com.apple.iokit.IOUSBHostFamily</string>
 				<key>Replace</key>
@@ -567,6 +598,8 @@
 				<false/>
 				<key>Find</key>
 				<data>g+MP0w==</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>Name</key>
 				<string>com.apple.iokit.IOUSBHostFamily</string>
 				<key>Replace</key>
@@ -577,6 +610,8 @@
 				<false/>
 				<key>Find</key>
 				<data>g/sPDw==</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.usb.AppleUSBXHCI</string>
 				<key>Replace</key>
@@ -587,6 +622,8 @@
 				<false/>
 				<key>Find</key>
 				<data>g/8PDw==</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.usb.AppleUSBXHCI</string>
 				<key>Replace</key>

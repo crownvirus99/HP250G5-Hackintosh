@@ -79,7 +79,7 @@ List of Patches and kexts
 * Apple ALC
 * USBInjectAll.kext
 * USB Port Limit Patch by PMHeart
-* Sleep fix (GPRW patch): [DSTD-GPRW Patch](https://1revenger1.gitbook.io/laptop-guide/battery-power-management/correcting-sleep-problems) 
+* Sleep fix (GPRW patch): [DSDT-GPRW Patch](https://1revenger1.gitbook.io/laptop-guide/battery-power-management/correcting-sleep-problems) 
 
 Credits:
 ==================

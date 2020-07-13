@@ -2,6 +2,8 @@
 
 <img src="https://github.com/crownvirus99/HP250G5-Hackintosh/blob/master/Captura%20de%20Pantalla%202020-06-15%20a%20la(s)%2000.46.16.png?raw=true" height="400px">
 
+Tested on Clover v5.0 r5118
+
 Specs
 ======
 **CPU:** Intel Core i5 6200U
